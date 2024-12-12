@@ -1,8 +1,11 @@
-## Hi there 👋 Welcome to Pasukan Gorong-Gorong
+# Pasukan Gorong-Gorong
 
-Kami adalah team/pasukan khusus Hackathon dari [lichtlabs](https://github.com/lichtlabs).
+Kami adalah team/pasukan khusus Hackathon dari [lichtlabs](https://github.com/lichtlabs). Senang bertemu dengan kalian!
 
-Senang bertemu dengan kalian!
+### English <img src="https://i.ibb.co.com/fDNPkhC/apple-sf-symbols-6-translate.png" alt="apple-sf-symbols-6-translate" border="0">
+
+We are the special Hackathon team from [lichtlabs](https://github.com/lichtlabs). Nice to meet you!
+
 
 <!--
 
