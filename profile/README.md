@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to Pasukan gorong-gorong
+## Hi there 👋 Welcome to Pasukan Gorong-Gorong
 
 Kami adalah team/pasukan khusus Hackathon dari [lichtlabs](https://github.com/lichtlabs).
 
